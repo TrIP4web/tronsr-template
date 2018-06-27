@@ -54,14 +54,18 @@ TYPE | LOCATION
 1 Phisycal
 
 
-## Server specification
+## Mainnet Server specification
 
 *first phase*
 
   2x
-    CPU:  Dual Intel® Xeon® Gold 6130 16-Core
-    RAM:  768GB DDR4 ECC 2133 MHz
-    Disk:  SoftRaid 2x4TB  ssd
-    Bandwidth 10GB
+    **CPU:**  
+    Dual Intel® Xeon® Gold 6130 16-Core
+    RAM:  
+    768GB DDR4 ECC 2133 MHz
+    Disk:  
+    SoftRaid 2x4TB  ssd
+    Bandwidth:
+    10GB
 
 hour by hour the charge will be monitored due to have the best performance
