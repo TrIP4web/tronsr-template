@@ -40,13 +40,12 @@ Futher a physical server will be commissioned and hosted in our current rack spa
 
 ## Location of server
 
-Main | France
-
-Backup | Holland
-
-API France | France (Q4)
-
-Disaster Recovery | Italy    (Q4)
+TYPE | LOCATION
+------------ | -------------
+ Main | France
+ Backup | Holland
+ API France | France (Q4)
+ Disaster Recovery | Italy    (Q4)
 
 
 ## Server type
@@ -57,7 +56,7 @@ Disaster Recovery | Italy    (Q4)
 
 ## Server specification
 
-* first phase *
+*first phase*
 
   2x
     CPU:  Dual Intel® Xeon® Gold 6130 16-Core
