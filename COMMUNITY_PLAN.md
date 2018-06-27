@@ -8,3 +8,14 @@ Social activities are also important as they allow us to expand our audience. We
 
 We will make use of radio and paper based media to increase general awareness of the TRON ecosystem, especially for those unaware of the crypto universe and its great benefits. Currently in Italy the media only covers Bitcoin.
 
+
+MEETUP
+
+We in Q4 2018 and Q1 2019 we will organize 4 Local Meetup in 4 cities ( probably Milan, Turin, Rome, Genoa)
+
+
+COMMUNITY EXPOSURE
+
+After a phase of studies (where we check our knoledge and skills) we start or presence in SR forum from this post.
+
+
