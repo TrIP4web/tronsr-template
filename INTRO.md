@@ -2,7 +2,7 @@
 
 **Trip4web** - Tron Italian Pool - tackles this adventure with many years of experience in the world of cryptocurrency.
 
-Our mission, after having been delegated forging in the major projects dpos, is to give the best possible support for those who want to support trip4web.
+Our mission, after we having been delegated forging in the major projects dpos, is to give the best possible support for those who want to support trip4web to increase **Tron vision**.
 
 Follow us for news, updates and questions:
 
