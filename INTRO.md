@@ -6,14 +6,11 @@ Its members after having been delegated forging in the major projects dpos want 
 
 You can have all the information by following us on our channels:
 
-- Telegram chat
-https://t.me/trip4web
+- ![Telegram](https://raw.githubusercontent.com/TrIP4web/tronsr-template/master/telegram.png)  https://t.me/trip4web
 
-- Twitter 
-https://twitter.com/trip4web
+- ![Twitter](https://raw.githubusercontent.com/TrIP4web/tronsr-template/master/twitter.png)  https://twitter.com/trip4web
 
-- Sito web
-https://trip4web.com
+- ![www](https://raw.githubusercontent.com/TrIP4web/tronsr-template/master/monitor.png) https://trip4web.com
 
 and soon you'll can find us on Reddit and Medium
 
