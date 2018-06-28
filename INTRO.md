@@ -2,9 +2,9 @@
 
 **Trip4web** - Tron Italian Pool - tackles this adventure with many years of experience in the world of cryptocurrency.
 
-Its members after having been delegated forging in the major projects dpos want to give the best possible support for those who want to support trip4web
+Our mission, after having been delegated forging in the major projects dpos, is to give the best possible support for those who want to support trip4web.
 
-You can have all the information by following us on our channels:
+Follow us for news, updates and questions:
 
 - ![Telegram](https://raw.githubusercontent.com/TrIP4web/tronsr-template/master/telegram.png)  https://t.me/trip4web
 
