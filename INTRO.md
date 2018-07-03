@@ -1,8 +1,8 @@
 ### WHO WE ARE ###
 
-**Trip4web** - Tron Italian Pool - tackles this adventure with many years of experience in the world of cryptocurrency.
+**Trip4web** - Tron Italian Pool - face this journey with many years of experience in the world of cryptocurrency.
 
-Our mission, after we having been delegated forging in the major projects dpos, is to give the best possible support for those who want to support trip4web to know TRON’s open, decentralized platform and distributed storage technology that will allow creators of digital content to cut out middlemen so content producers will thus be able to obtain funds directly from consumers.
+Our mission, after being forgers delegate in the major DPOS projects, is to give the best support possible for those who want to support trip4web sharing the knowledge of the decentralized and open **TRON** platform and its distributed storage technology that will allow digital content creators to avoid any 3rd party and so all the content producers will be able to obtain the payments directly from the end user.
 
 Follow us for news, updates and questions:
 
